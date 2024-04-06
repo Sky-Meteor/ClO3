@@ -1,0 +1,3 @@
+displayName = Crash-log Only Occurs Once
+author = Furgo
+version = 0.1
